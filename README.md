@@ -32,7 +32,7 @@ The goal was not just to build a dashboard — but to demonstrate:
 
 The original dataset was restructured to simulate real-world database design.
 
-### 🔄 Excel Data Preparation
+### Excel Data Preparation
 
 #### 1️⃣ Relocated Population Column
 
@@ -48,7 +48,8 @@ The `population` column was moved to the beginning of the dataset to:
 
 To demonstrate database normalization and JOIN operations, the dataset was split into:
 
-### 🦠 `CovidDeaths`
+- <a href="https://github.com/YTFarhan/COVID-19_Data_Analysis/blob/main/CovidDeaths.xlsx">CovidDeaths</a>
+`
 
 Contains:
 
@@ -63,7 +64,7 @@ Contains:
 
 ---
 
-### 💉 `CovidVaccinations`
+- <a href="https://github.com/YTFarhan/COVID-19_Data_Analysis/blob/main/CovidVaccinations.xlsx">CovidVaccinations</a>
 
 Contains:
 
@@ -73,7 +74,7 @@ Contains:
 
 ---
 
-### 💡 Why Separate the Tables?
+### Why Separate the Tables?
 
 * To simulate real-world relational database structure
 * To demonstrate SQL JOIN operations
@@ -82,11 +83,8 @@ Contains:
 
 ---
 
-## 🧠 SQL Analysis (Microsoft SQL Server)
+## SQL Analysis (Microsoft SQL Server)
 
-Database: `PortfolioProject`
-
----
 
 ### 1️⃣ Global Totals & Death Percentage
 
@@ -156,7 +154,7 @@ Analyzed how infection percentages evolved month-by-month.
 
 ---
 
-## 📊 Tableau Dashboard Features
+## Tableau Dashboard Features
 
 The dashboard includes:
 
@@ -180,6 +178,8 @@ The dashboard includes:
 * Percent population infected over time
 * Actual vs Forecast projections
 * Multi-country comparison (US, UK, India, Mexico, China)
+
+<img width="2119" height="1087" alt="Screenshot 2026-03-02 160702" src="https://github.com/user-attachments/assets/a72dc7c6-43d7-4794-bd49-9fc6fbcd73d6" />
 
 ---
 
@@ -214,32 +214,3 @@ This project reflects how real analysts:
 * Write analytical SQL queries
 * Extract meaningful insights
 * Build executive-ready dashboards
-
-It demonstrates both **technical skill** and **analytical thinking**.
-
----
-
-## 📎 Files Included
-
-* `CovidDeaths.xlsx`
-* `CovidVaccinations.xlsx`
-* SQL Query Script
-* Tableau Dashboard File
-
----
-
-## 👤 Author
-
-**Bob**
-Data Analytics | SQL | Tableau | Excel
-
----
-
-If you'd like, I can now:
-
-* 🔥 Make a “more technical” version (for data engineer roles)
-* 💼 Make a “business analyst focused” version
-* 🎯 Optimize it specifically for internships
-* 🏆 Rewrite it to sound more senior-level
-
-Just tell me what roles you’re targeting.
