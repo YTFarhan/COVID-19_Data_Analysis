@@ -177,9 +177,9 @@ The dashboard includes:
 
 * Percent population infected over time
 * Actual vs Forecast projections
-* Multi-country comparison (US, UK, India, Mexico, China)
+* Multi-country comparison (US, UK, Canada, Russia, China)
 
-<img width="2119" height="1087" alt="Screenshot 2026-03-02 160702" src="https://github.com/user-attachments/assets/a72dc7c6-43d7-4794-bd49-9fc6fbcd73d6" />
+<img width="2092" height="1121" alt="Screenshot 2026-03-22 122154" src="https://github.com/user-attachments/assets/cacb7716-95dc-4ce4-a8e5-f8850ae424a7" />
 
 ---
 
