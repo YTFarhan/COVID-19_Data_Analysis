@@ -156,6 +156,8 @@ Analyzed how infection percentages evolved month-by-month.
 
 ## Tableau Dashboard Features
 
+- <a href="https://public.tableau.com/views/COVID-19GlobalDeathAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Live View Dashboard</a>
+
 The dashboard includes:
 
 ### 🌍 Global KPIs
