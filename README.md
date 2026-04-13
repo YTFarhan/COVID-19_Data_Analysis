@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the global COVID-19 data from Jan. 2020 to Apr. 2021 using **Excel, Microsoft SQL Server Server, and Tableau** to uncover trends in:
+This project analyzes the global COVID-19 data from Jan. 2020 to Apr. 2021 using **Excel, Microsoft SQL Server, and Tableau** to uncover trends in:
 
 * Global cases and deaths
 * Death percentage
