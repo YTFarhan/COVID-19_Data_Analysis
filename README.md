@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes the global COVID-19 data from Jan. 2020 to Apr. 2021 using **Excel, Microsoft SQL Server, and Tableau** to uncover trends in:
+This project analyzes the global COVID-19 data from Jan. 2020 to Apr. 2021 using **Excel, MySQL Server, and Tableau** to uncover trends in:
 
 * Global cases and deaths
 * Death percentage
@@ -23,7 +23,7 @@ The goal was not just to build a dashboard — but to demonstrate:
 ## 🛠 Tech Stack
 
 * **Microsoft Excel** – Data cleaning & restructuring
-* **Microsoft SQL Server** – Data modeling & analysis
+* **MySQL** – Data modeling & analysis
 * **Tableau** – Data visualization & dashboard design
 
 ---
@@ -83,7 +83,7 @@ Contains:
 
 ---
 
-## SQL Analysis (Microsoft SQL Server)
+## SQL Analysis (MySQL)
 
 
 ### 1️⃣ Global Totals & Death Percentage
